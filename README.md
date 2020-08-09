@@ -13,4 +13,5 @@ https://wistbean.github.io/python-tutorial.html <br>
 很简单的入门书，就是翻译不太好<br>
 
 # 学习提醒~
-多运用百度搜索引擎哦~
+多用搜索引擎哦~<br>
+~~（我不会告诉你我都是一个屏幕开vscode另一个屏幕开浏览器搜教程写代码的2333）~~
