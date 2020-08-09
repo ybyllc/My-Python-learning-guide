@@ -15,3 +15,7 @@ https://wistbean.github.io/python-tutorial.html <br>
 # 学习提醒~
 多用搜索引擎哦~<br>
 ~~（我不会告诉你我都是一个屏幕开vscode另一个屏幕开浏览器搜教程写代码的2333）~~
+
+# 附
+README.md排版指南
+https://blog.csdn.net/u012067966/article/details/50736647
