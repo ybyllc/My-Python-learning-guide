@@ -3,11 +3,10 @@
 
 可以看作是我详细的学习过程<br>
 也可以看作是一个从零开始的教程<br>
-我会以txt的形式更新<br>
-
+我会以one的文件更新（用电脑自带的[OneNote](https://www.onenote.com/download/)笔记本打开）<br>
 # 参考教程
-https://wistbean.github.io/python-tutorial.html <br>
-小帅b的教程写的太好了~<br>
+[小帅b的教程](https://wistbean.github.io/python-tutorial.html)<br>
+写的太好了~<br>
 
 以及实体书《python编程快速上手-让繁琐工作自动化》<br>
 很简单的入门书，就是翻译不太好<br>
