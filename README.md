@@ -16,11 +16,15 @@ https://wistbean.github.io/python-tutorial.html <br>
 多用搜索引擎哦~<br>
 ~~（我不会告诉你我写代码是一个屏幕开vscode另一个屏幕看浏览器搜教程写的2333）~~<br>
 
+写代码相当于写英文作文给电脑，让他干xx事。。。<br>
+~~（所以我们只需要边抄范文变写就可以了）~~
+所以学代码要从单词（函数）先学起，慢慢就会用了
+
 编程语言的基础都是差不多的<br>
 只要学会一门就能很容易学另一门<br>
 ~~（据说大佬只需要一个早餐的时间就能学会一门编程语言）~~
 
 附
 ---
-README.md排版指南<br>
+README.md（markdown）排版指南<br>
 https://blog.csdn.net/u012067966/article/details/50736647
