@@ -7,7 +7,7 @@
 
 # 参考教程
 https://wistbean.github.io/python-tutorial.html <br>
-大帅b的教程写的太好了~<br>
+小帅b的教程写的太好了~<br>
 
 以及实体书《python编程快速上手-让繁琐工作自动化》<br>
 很简单的入门书，就是翻译不太好<br>
