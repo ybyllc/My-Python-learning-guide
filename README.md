@@ -1,4 +1,4 @@
-我的python学习录~
+我的python学习录~<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
 ====
 可以看作是我详细的学习过程<br>
 也可以看作是一个纯小白的教程笔记<br>
