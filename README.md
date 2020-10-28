@@ -7,7 +7,8 @@
  - [小帅b的教程](https://wistbean.github.io/python-tutorial.html)
 写的太好了~<br>
 <br>
-
+ - [骆昊的Python - 100天从新手到大师项目](https://github.com/jackfrued/Python-100-Days)<br>
+ - [学校python教材](https://item.jd.com/12501805.html)
  - 以及实体书《python编程快速上手-让繁琐工作自动化》<br>
 很简单的入门书，就是翻译不太好<br>
 
